@@ -1,1 +1,1 @@
- # kumpulan-tugas-praktikum-algosem1
+ # KUMPULAN TUGAS ALGO SEMESTER 1
